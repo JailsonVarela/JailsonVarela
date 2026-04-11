@@ -8,7 +8,7 @@ Sou um Engenheiro Informático apaixonado por construir soluções que unem **pe
 
 ## 🚀 Sobre Mim
 - 📱 Atualmente focado em **Desenvolvimento Web**.
-- 📊 Entusiasta de **Desenvolvimento Mobile**(React Native) e também **Engenharia de Dados** (ETL, Data Warehousing e BI).
+- 📊 Entusiasta de **Desenvolvimento Mobile** (React Native, Kotlin, Java, Android Studio) e também **Engenharia de Dados** (ETL, Data Warehousing, Tableau e BI).
 - 🏆 Atleta federado e Ex-atleta universitário – trago a disciplina e o espírito de equipa do campo para o código.
 - 🧘 Praticante de Mindfulness para manter o foco e a produtividade sob pressão.
 
