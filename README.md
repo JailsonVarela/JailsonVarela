@@ -32,12 +32,9 @@ Aplicação Web desenvolvida em **HTML, CSS e JavaScript**
 ---
 
 ## 📂 Outros Projetos 
-- **[criacao-paginas-web-hipertexto:](https://github.com/JailsonVarela/criacao-paginas-web-hipertexto)** Conceitos fundamentais de desenvolvimento web utilizando HTML, CSS e JavaScript.
-- **[Sistema de Gestão de Aluguer de Automóveis:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/blob/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Sistemas-Distribuidos/sd-t01-40699-49183)** Demostração de conceitos incorporando Servidor Central e dois tipos de clientes.
 - **[MonitorizacaoAmbientalNovoHospitalEvora:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/tree/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Sistemas-Distribuidos/sd-t02-40699-49183)** Sistema distribuído para monitorizar a temperatura e humidade de diversas áreas.
-- **[KNNeighborsUE:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/tree/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Aprendizagem-Automatica/Trabalho1AA/Terceira_submisao/40699)** Implementação do algoritmo de aprendizagem KNN e criação de modelos aplicado a 3 conjuntos de dados.
 - **[NBayesUE:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/tree/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Aprendizagem-Automatica/Trabalho1_Epoca_Especial/40699)** Implementação do algoritmo de aprendizagem GNB e criação de modelos aplicado a 3 conjuntos de dados.
-- **[Classificação de Florestas:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/tree/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Aprendizagem-Automatica/Trabalho2_Epoca_Especial/40699)** Previsão o tipo de floresta com base em variáveis numéricas, utilizando algoritmos de aprendizagem supervisionada.
+- **[criacao-paginas-web-hipertexto:](https://github.com/JailsonVarela/criacao-paginas-web-hipertexto)** Conceitos fundamentais de desenvolvimento web utilizando HTML, CSS e JavaScript.
 
 ---
 
@@ -63,6 +60,13 @@ Aplicação Web desenvolvida em **HTML, CSS e JavaScript**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Mais alguns projectos
+- **[Sistema de Gestão de Aluguer de Automóveis:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/blob/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Sistemas-Distribuidos/sd-t01-40699-49183)** Demostração de conceitos incorporando Servidor Central e dois tipos de clientes.
+- **[KNNeighborsUE:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/tree/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Aprendizagem-Automatica/Trabalho1AA/Terceira_submisao/40699)** Implementação do algoritmo de aprendizagem KNN e criação de modelos aplicado a 3 conjuntos de dados.
+- **[Classificação de Florestas:](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/tree/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Aprendizagem-Automatica/Trabalho2_Epoca_Especial/40699)** Previsão o tipo de floresta com base em variáveis numéricas, utilizando algoritmos de aprendizagem supervisionada.
 
 ---
 
