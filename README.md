@@ -25,10 +25,16 @@ Aplicação móvel para gestão de despesas desenvolvida em **Kotlin (Android)**
 Aplicação Web desenvolvida em **HTML, CSS e JavaScript**  
 🔗 https://github.com/JailsonVarela/Sistema-de-Inventario---Calendario-Storico-dell-Arma-dei-Carabinieri
 
+### 📊 BI&CloudDefault 
+Soluções de **Business Intelligence (BI)**, construir 
+dashboards e relatórios e realizar deploy com **Power BI**  
+🔗 [Evolução do Modulo](https://github.com/JailsonVarela/BI-CloudDefault/blob/b9a1a29ce76f63623f8ea6671e7cca20023943b2/README.md)
+
+<--- Oculto
 ### 📊 Data Warehouse IMDB 
 **Pipeline ETL** e visualização de dados complexos com **Tableau**  
 🔗 [Projeto Data Warehouse IMDB](https://github.com/JailsonVarela/Projectos-Universidade-de-Evora/tree/aedfb12e6bc69a35c6d60a1f5c0c5a3f067f9b66/Integracao-e-Processamento-Analitico-de-Informacao/%C3%89poca%20de%20Melhoria%20)
-
+--->
 ---
 
 ## 📂 Outros Projetos 
