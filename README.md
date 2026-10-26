@@ -1,28 +1,33 @@
 # Olá, eu sou o Jailson Varela! 👋
 
-### Engenheiro Informático | Mobile Developer | Data Enthusiast
+### Engenheiro Informático 
 
-Sou um Engenheiro Informático apaixonado por construir soluções que unem **performance técnica** e **valor de negócio**. Com um background sólido em desenvolvimento mobile e uma mentalidade analítica voltada para dados, foco-me em criar código limpo e pipelines eficientes.
+Licenciado em Engenharia Informática pela Universidade de Évora, com conhecimentos de desenvolvimento de software, programação, bases de dados,
+tecnologias web e processamento de dados.
 
 ---
 
 ## 🚀 Sobre Mim
-- 📍 Atualmente focado em **Desenvolvimento Web e Mobile**.
-- 📱 Entusiasta de **Desenvolvimento Mobile** (React Native, Kotlin, Java, Android Studio)
-- 📊 Também de **Engenharia de Dados** (ETL, Data Warehousing, Tableau e BI).
+- 📱 Entusiasta de **Desenvolvimento Mobile** (React Native, Kotlin, Java, Android Studio),
+- 🌐 **Web** (JavaScript, Html, Css, Figma),
+- 📊 Também de **Engenharia de Dados** (ETL e BI).
 - 🏆 Atleta federado e Ex-atleta universitário – trago a disciplina e o espírito de equipa do campo para o código.
-- 🧘 Praticante de Mindfulness para manter o foco e a produtividade sob pressão.
 
 ---
 
 ## 🎯 Projetos em Destaque
 
+### 📊 BI&CloudDefault
+Soluções de **Business Intelligence (BI)**, construir dashboards e relatórios e realizar deploy com **Power BI**  
+🔗 https://github.com/JailsonVarela/BI-CloudDefault/blob/b9a1a29ce76f63623f8ea6671e7cca20023943b2/README.md
+
+### 🌐 Homem-Aranha Um novo dia
+Aplicação Web desenvolvida em **HTML, CSS e JavaScript**  
+🔗 https://github.com/JailsonVarela/DevArt-HomemAranha/blob/9d21dd404e0f3b76ae945546b536a45ab982ade5/README.md
+
 ### 📱 BudgetTracker
 Aplicação móvel para gestão de despesas desenvolvida em **Kotlin (Android)**  
 🔗 https://github.com/JailsonVarela/BudgetTracker-Mobile-App
-
-### 📊 [BI&CloudDefault](https://github.com/JailsonVarela/BI-CloudDefault/blob/b9a1a29ce76f63623f8ea6671e7cca20023943b2/README.md)
-Soluções de **Business Intelligence (BI)**, construir dashboards e relatórios e realizar deploy com **Power BI**  
 
 <!-- OCULTO
 
